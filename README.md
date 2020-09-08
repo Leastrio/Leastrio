@@ -5,7 +5,7 @@
 # About Me
 #### Always curious to learn cutting edge technology. Loves gaming and learning new stuff.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Leastrio's github stats](https://github-readme-stats.vercel.app/api?username=leastrio)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg">
