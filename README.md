@@ -6,7 +6,7 @@
 # About Me
 #### Always curious to learn cutting edge technology. Loves gaming and learning new stuff.
 
-[![Leastrio's github stats](https://github-readme-stats.vercel.app/api?username=leastrio)](https://github.com/anuraghazra/github-readme-stats)
+Im learning rust, and c++, intermediate in python.
 
 
 <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg">
