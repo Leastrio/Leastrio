@@ -3,6 +3,5 @@
 
 
 # About Me
-#### Always curious to learn cutting edge technology. Loves gaming and learning new stuff.
 
 Im learning rust, and c++, intermediate in python.
