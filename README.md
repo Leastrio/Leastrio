@@ -4,4 +4,4 @@
 
 # About Me
 
-Im learning rust, and c++, intermediate in python.
+Im learning rust, c++, and JS/TS. intermediate in python.
