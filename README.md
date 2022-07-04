@@ -1,6 +1,9 @@
-# Leastrio
+| Key | Value |
+|-|-|
+| Name | Leastrio |
+| Favorite language | Elixir |
+| Favorite language when asked | Rust |
+| Favorite typeface | JetBrains Mono |
+| Favorite editor | VsCode |
 
-![Leastrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=leastrio&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leastrio&layout=compact&theme=tokyonight&hide_border=true)
 
